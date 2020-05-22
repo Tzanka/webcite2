@@ -1,0 +1,44 @@
+@import url(`https://fonts.googlepis.com/css?family=Chelsea+Market:400,500`);
+
+
+    body{
+    background-image:url("IMG_3509.JPG");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: rosybrown;
+}
+*{
+    text-align:center
+}
+
+h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:black;
+    font-size:30px
+    
+}
+h1{ font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(245, 241, 241);
+    font-size: 30;
+    font-weight: 300;
+    
+}
+.box{
+    box-sizing: content-box ;
+    color:slategray;
+    display: flex;
+}
+p{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:18;
+    font-weight: 200;
+    color: rgb(230, 83, 16)
+    
+}
+*{
+ box-sizing: content-box;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:18;
+    font-weight: 200;
+    color:black
+}
